@@ -3,5 +3,5 @@ Autores:
 Rocío Esteban Valverde
 Lucía García Lado
 Sergio Buil Laliena
-Julio Miranda Santos
+Julio Miranda Santos jms1015@alu.ubu.es
 
