@@ -2,6 +2,6 @@
 Autores:
 Rocío Esteban Valverde
 Lucía García Lado
-	Sergio Buil Laliena
-     Julio Miranda Santos
+Sergio Buil Laliena
+Julio Miranda Santos
 
