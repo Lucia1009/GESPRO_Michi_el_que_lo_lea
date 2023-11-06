@@ -2,6 +2,6 @@
 Autores:
 Rocío Esteban Valverde rev1002@alu.ubu.es,
 Lucía García Lado lgl1009@alu.ubu.es,
-Sergio Buil Laliena sbl1003@alu.ubu.es,
+Sergio Buil Laliena,
 Julio Miranda Santos
 
