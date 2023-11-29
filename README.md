@@ -18,7 +18,7 @@ _El mayor factor de éxito de nuestro proyecto es el uso de **nuevas tecnología
 
 _En nuestro proyecto buscamos continuar una **nueva versión de estos juegos** para seguir entreteniendo a futuras generaciones de niños y adultos. Apostamos por la **renovación** para que no se pierdan los juegos con los que muchos han crecido y han aprendido a querer._
 
-## ¿Dónde pueden recibir ayuda los usuarios con el proyecto?
+## ¿Dónde pueden recibir ayuda los usuarios con el proyecto? ❓
 
 _El juego cuenta con un pequeño y claro tutorial al iniciar el juego por primera vez, el cual proporciona información sobre los controles y la mecánica del juego. De todos modos, los usuarios pueden consultar guias y tutoriales en línea ya que como con todos los juegos se crea una comunidad de jugadores que comparten consejos, estrategias y trucos varios que pueden ayudar a los demás usuarios a mejorar. Además, para adaptar al usuario existe la configuración de controles en la que el usuario personaliza los controles según las preferencias y comodidades del jugador. Se podrían encontrar videos en plataformas como YouTube o Twitch donde todo tipo de jugadores comparten sus experiencias. La mayoría de la ayuda que van a recibir los usuarios es en las redes sociales de mano de otros usuarios._
 
