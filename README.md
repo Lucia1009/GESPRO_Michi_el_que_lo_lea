@@ -6,6 +6,7 @@ Este proyecto forma parte de una práctica universitaria que aborda la planifica
 
 ## ¿Dónde pueden recibir ayuda los usuarios con el proyecto? ❓
 _El juego cuenta con un pequeño y claro tutorial al iniciar el juego por primera vez, el cual proporciona información sobre los controles y la mecánica del juego. De todos modos, los usuarios pueden consultar guias y tutoriales en línea ya que como con todos los juegos se crea una comunidad de jugadores que comparten consejos, estrategias y trucos varios que pueden ayudar a los demás usuarios a mejorar. Además, para adaptar al usuario existe la configuración de controles en la que el usuario personaliza los controles según las preferencias y comodidades del jugador. Se podrían encontrar videos en plataformas como YouTube o Twitch donde todo tipo de jugadores comparten sus experiencias. La mayoría de la ayuda que van a recibir los usuarios es en las redes sociales de mano de otros usuarios.
+=======
 
 ## Pasos realizados hasta el momento 📋
 
@@ -91,6 +92,3 @@ Sergio Buil Laliena - sbl1003@alu.ubu.es
 Julio Miranda Santos - jms1015@alu.ubu.es
 
 También puedes mirar la lista de todos los [contribuyentes]((https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/graphs/contributors)https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/graphs/contributors) quíenes han participado en este proyecto.  
-
-
-
