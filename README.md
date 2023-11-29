@@ -1,115 +1,79 @@
 # GESPRO_Michi_el_que_lo_lea
-_Autores:
-
-_Rocío Esteban Valverde rev1002@alu.ubu.es,
-_Lucía García Lado lgl1009@alu.ubu.es,
-_Sergio Buil Laliena sbl1003@alu.ubu.es,
-_Julio Miranda Santos jms1015@alu.ubu.es
 
 ## Descripción del proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
-
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+Este proyecto forma parte de una práctica universitaria que aborda la planificación, desarrollo y gestión de un proyecto de software empleando metodologías ágiles. La iniciativa consiste en la implementación de historias de usuario definidas previamente en conjunto, utilizando Jira para la gestión de tareas y GitHub para el control de versiones. En este proyecto se encuentra una descripción detallada de los pasos seguidos hasta el momento para llegar al estado actual del proyecto.
 
 
-### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+## Pasos realizados hasta el momento 📋
 
-```
-Da un ejemplo
-```
+### Selección del proyecto
+En Miró se realizó un tablero para sugerir y votar qué proyecto realizar.
 
-### Instalación 🔧
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/d9f8ede8-7362-4c66-b15b-10669510b94c)
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+Tras la votación el proyecto ganador fue el videojuego.
 
-_Dí cómo será ese paso_
+### Definición de funcionalidades
+El juego consiste en un jugador en primera persona que tiene que destruir bloques que le llegan al ritmo de diferentes canciones entre las que puede elegir.
 
-```
-Da un ejemplo
-```
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/bf96b469-58b1-4f2c-8ff5-e608c3041e79)
 
-_Y repite_
+Entre todos ideamos algunas funcionalidades que queríamos que tuviera nuestro juego y las seleccionadas finalmente las agrupamos por área para proceder con el siguiente apartado.
 
-```
-hasta finalizar
-```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+### Historias de usuario
+Se definieron algunas historias de usuario que servirán para el resto del proceso de desarrollo.
 
-## Ejecutando las pruebas ⚙️
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/35a7da6b-446b-45a8-bff2-ca53392f3916)
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+El equipo es el que decidió los puntos de historia mediante votación.
 
-### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
+### Jira
+En Jira se añadieron los issues que formarían el primer sprint y tras completar los datos relevantes se repartieron tareas a cada persona del equipo. Para hacer el seguimiento se conectó el proyecto de Jira con el actual proyecto en Github.
+A continuación el desarrollo de cada tarea paso a paso:
 
-```
-Da un ejemplo
-```
+#### **Tarea 2: Contador-de-fallos**
 
-### Y las pruebas de estilo de codificación ⌨️
+A continuación se muestran los detalles de la tarea en Jira.
+Esta tarea pertenece al epic Puntuaciones.
 
-_Explica que verifican estas pruebas y por qué_
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/85b74a3e-e0ed-42de-aeae-532dd59ceb91)
 
-```
-Da un ejemplo
-```
+**Finalización de la tarea 2**
 
-## Despliegue 📦
+A la finalización de la tarea el cronograma tiene el aspecto mostrado en la siguiente imagen.
+![Captura de pantalla 2023-11-28 104335](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/f96f4b95-2912-48fe-9752-56549e161e5a)
 
-_Agrega notas adicionales sobre como hacer deploy_
+Este es el gráfico burndown que ilustra el estado del proyecto tras la finalización de la tarea.
+![Burndown comienzo tarea 2 - WhatsApp Image 2023-11-28 at 10 36 04](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/571a626b-4d48-42e2-937b-9ef2301bc2ac)
 
-## Construido con 🛠️
+#### **Tarea 5: Acabar la partida**
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+A continuación se muestran los detalles de la tarea en Jira.
+Esta tarea pertenece al epic Música y partidas.
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/057bd5bc-a132-47b8-b990-8f05830a6621)
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+**Finalización de la tarea 5**
 
-## Contribuyendo 🖇️
+A la finalización de la tarea el tablero kanban del proyecto tiene el aspecto mostrado en la siguiente imagen.
+![Captura de pantalla 2023-11-29 200043](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/349676c0-2b06-4dd8-8297-54f6a9757110)
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Este es el gráfico burndown que ilustra el estado del proyecto tras la finalización de la tarea.
+![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/7f5eb4c9-7a4f-4950-ab55-d0677e42bfa3)
 
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+Rocío Esteban Valverde - rev1002@alu.ubu.es
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+Lucía García Lado - lgl1009@alu.ubu.es
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+Sergio Buil Laliena - sbl1003@alu.ubu.es
 
-## Licencia 📄
+Julio Miranda Santos - jms1015@alu.ubu.es
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+También puedes mirar la lista de todos los [contribuyentes]((https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/graphs/contributors)https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/graphs/contributors) quíenes han participado en este proyecto.  
 
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
-=======
