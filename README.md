@@ -1,5 +1,12 @@
 # GESPRO_Michi_el_que_lo_lea
 
+Rocío Esteban Valverde rev1002@alu.ubu.es,
+Lucía García Lado lgl1009@alu.ubu.es,
+Sergio Buil Laliena sbl1003@alu.ubu.es,
+Julio Miranda Santos jms1015@alu.ubu.es
+
+#### **Tarea 1: Elegir canción**
+
 ## Descripción del proyecto
 
 Este proyecto forma parte de una práctica universitaria que aborda la planificación, desarrollo y gestión de un proyecto de software empleando metodologías ágiles. La iniciativa consiste en la implementación de historias de usuario definidas previamente en conjunto, utilizando Jira para la gestión de tareas y GitHub para el control de versiones. En este proyecto se encuentra una descripción detallada de los pasos seguidos hasta el momento para llegar al estado actual del proyecto.
@@ -65,6 +72,7 @@ Este es el gráfico burndown que ilustra el estado del proyecto tras la finaliza
 A continuación se muestran los detalles de la tarea en Jira.
 Esta tarea pertenece al epic Música y partidas.
 
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/detalles%20actividad%20jira.png)
 ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/057bd5bc-a132-47b8-b990-8f05830a6621)
 
 
@@ -77,6 +85,7 @@ A la finalización de la tarea el tablero kanban del proyecto tiene el aspecto m
 
 Este es el gráfico burndown que ilustra el estado del proyecto tras la finalización de la tarea.
 
+![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/burndown.png)
 ![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/7f5eb4c9-7a4f-4950-ab55-d0677e42bfa3)
 
 
