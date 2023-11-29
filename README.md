@@ -1,10 +1,10 @@
 # GESPRO_Michi_el_que_lo_lea
-Autores:
+_Autores:
 
-Rocío Esteban Valverde rev1002@alu.ubu.es,
-Lucía García Lado lgl1009@alu.ubu.es,
-Sergio Buil Laliena sbl1003@alu.ubu.es,
-Julio Miranda Santos jms1015@alu.ubu.es
+_Rocío Esteban Valverde rev1002@alu.ubu.es,
+_Lucía García Lado lgl1009@alu.ubu.es,
+_Sergio Buil Laliena sbl1003@alu.ubu.es,
+_Julio Miranda Santos jms1015@alu.ubu.es
 
 ## Descripción del proyecto
 
@@ -112,3 +112,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ---
 ⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+=======
