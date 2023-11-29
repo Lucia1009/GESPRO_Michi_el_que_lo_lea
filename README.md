@@ -6,11 +6,6 @@ _Lucía García Lado lgl1009@alu.ubu.es,_
 _Sergio Buil Laliena sbl1003@alu.ubu.es,_
 _Julio Miranda Santos jms1015@alu.ubu.es_
 
-## ¿Dónde pueden recibir ayuda los usuarios con el proyecto?
-
-_El juego cuenta con un pequeño y claro tutorial al iniciar el juego por primera vez, el cual proporciona información sobre los controles y la mecánica del juego. De todos modos, los usuarios pueden consultar guias y tutoriales en línea ya que como con todos los juegos se crea una comunidad de jugadores que comparten consejos, estrategias y trucos varios que pueden ayudar a los demás usuarios a mejorar. Además, para adaptar al usuario existe la configuración de controles en la que el usuario personaliza los controles según las preferencias y comodidades del jugador. Se podrían encontrar videos en plataformas como YouTube o Twitch donde todo tipo de jugadores comparten sus experiencias. La mayoría de la ayuda que van a recibir los usuarios es en las redes sociales de mano de otros usuarios._
-
-
 ## Descripción del proyecto
 
 _Acá va un párrafo que describa lo que es el proyecto_
@@ -22,6 +17,10 @@ _Nuestro proyecto resulta importante porque es un proyecto de **actualidad.** El
 _El mayor factor de éxito de nuestro proyecto es el uso de **nuevas tecnologías** como la realidad virtual aplicadas a juegos cuyas **mecánicas tradicionalmente han sido exitosas** entre el público. Varios nombres de juegos con dinámicas similares que han triunfado son el Guitar Hero, el Dance Dance Revolution o el Piano Tiles._
 
 _En nuestro proyecto buscamos continuar una **nueva versión de estos juegos** para seguir entreteniendo a futuras generaciones de niños y adultos. Apostamos por la **renovación** para que no se pierdan los juegos con los que muchos han crecido y han aprendido a querer._
+
+## ¿Dónde pueden recibir ayuda los usuarios con el proyecto?
+
+_El juego cuenta con un pequeño y claro tutorial al iniciar el juego por primera vez, el cual proporciona información sobre los controles y la mecánica del juego. De todos modos, los usuarios pueden consultar guias y tutoriales en línea ya que como con todos los juegos se crea una comunidad de jugadores que comparten consejos, estrategias y trucos varios que pueden ayudar a los demás usuarios a mejorar. Además, para adaptar al usuario existe la configuración de controles en la que el usuario personaliza los controles según las preferencias y comodidades del jugador. Se podrían encontrar videos en plataformas como YouTube o Twitch donde todo tipo de jugadores comparten sus experiencias. La mayoría de la ayuda que van a recibir los usuarios es en las redes sociales de mano de otros usuarios._
 
 ## Comenzando 🚀
 
