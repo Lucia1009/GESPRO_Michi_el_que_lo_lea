@@ -1,119 +1,33 @@
-# GESPRO_Michi_el_que_lo_lea
-_Autores:_
 
-_Rocío Esteban Valverde rev1002@alu.ubu.es,_
-_Lucía García Lado lgl1009@alu.ubu.es,_
-_Sergio Buil Laliena sbl1003@alu.ubu.es,_
-_Julio Miranda Santos jms1015@alu.ubu.es_
-
-## Descripción del proyecto
-
-_Acá va un párrafo que describa lo que es el proyecto_
 
 ## ¿Por qué el proyecto es importante?📈
+### En el ámbito académico: ¿Por qué hacer este proyecto?
+Este proyecto resulta importante en el ámbito académico puesto que nos permite simular una metodología real en una empresa. A su vez podemos familiarizarnos con de herramientas de uso cotidiano en un futuro puesto de trabajo como GitHub o Jira. Conocer cómo funcionan estas herramientas supone una ventaja puesto que nuestra introducción al mundo laboral será mucho más sencilla.
 
-_Nuestro proyecto resulta importante porque es un proyecto de **actualidad.** El juego que estamos elaborando es un juego popular entre la gente joven debido a la **amplia difusión** en las redes sociales de juegos de este etilo._
+### En el ámbito real: Si se realizara el proyecto, ¿Qué responderíamos a la pregunta?
+Nuestro proyecto resulta importante porque es un proyecto de **actualidad.** El juego que estamos elaborando es un juego popular entre la gente joven debido a la **amplia difusión** en las redes sociales de juegos de este etilo.
 
-_El mayor factor de éxito de nuestro proyecto es el uso de **nuevas tecnologías** como la realidad virtual aplicadas a juegos cuyas **mecánicas tradicionalmente han sido exitosas** entre el público. Varios nombres de juegos con dinámicas similares que han triunfado son el Guitar Hero, el Dance Dance Revolution o el Piano Tiles._
+El mayor factor de éxito de nuestro proyecto es el uso de **nuevas tecnologías** como la realidad virtual aplicadas a juegos cuyas **mecánicas tradicionalmente han sido exitosas** entre el público. Varios nombres de juegos con dinámicas similares que han triunfado son el _Guitar Hero, el Dance Dance Revolution o el Piano Tiles._
 
-_En nuestro proyecto buscamos continuar una **nueva versión de estos juegos** para seguir entreteniendo a futuras generaciones de niños y adultos. Apostamos por la **renovación** para que no se pierdan los juegos con los que muchos han crecido y han aprendido a querer._
-
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+En nuestro proyecto buscamos continuar una **nueva versión de estos juegos** para seguir entreteniendo a futuras generaciones de niños y adultos. Apostamos por la **renovación** para que no se pierdan los juegos con los que muchos han crecido y han aprendido a querer.
 
 
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
-
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
 
 
+
+
+
+#### Fin del sprint
+Este es el gráfico que obtenemos al finalizar el sprint:
+![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/burndown%20final%20primer%20sprint.jpg?raw=true)
+Como podemos observar, el gráfico indica que el sprint está subestimado. Se puede ver porque la línea naranja que marca el progreso del sprint está por encima de la pendiente. Esto es debido en gran parte a la brevedad del sprint y a que hemos elegido muchas tareas que debían terminar el último día (3 puntos de historias de usuario). Por esta razón también, es por lo que hay una caída significativa al final del gráfico.
+
+En el gráfico además se puede observar que faltan 5 story points por completarse. Esto decidimos hacerlo a propósito para simular la situación en la que una tarea no ha podido completarse y pasa al siguiente sprint.
+
+Podemos ver que al haber finalizado el sprint, la tarea inacabada se coloca automáticamente en el sprint 2:
+
+![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/sprint2.jpg?raw=true)
+
+También quisimos simular que una tarea finalizara antes de tiempo, por lo que la tarea 7: acumular puntuación de jugador, pese a tener asignados 3 story points, duró 2 días.
+
+En conclusión, el reparto de tareas para el sprint no fue el más adecuado porque no re realiza una entrega continua, sino que hay saltos.
