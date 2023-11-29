@@ -3,6 +3,8 @@
 ## Descripción del proyecto
 Este proyecto forma parte de una práctica universitaria que aborda la planificación, desarrollo y gestión de un proyecto de software empleando metodologías ágiles. La iniciativa consiste en la implementación de historias de usuario definidas previamente en conjunto, utilizando Jira para la gestión de tareas y GitHub para el control de versiones. En este proyecto se encuentra una descripción detallada de los pasos seguidos hasta el momento para llegar al estado actual del proyecto.
 
+El proyecto en sí es un juego en primera persona que consiste destruir bloques que le llegan al personaje al ritmo de diferentes canciones entre las que puede elegir.
+
 ## ¿Por qué el proyecto es importante?📈
 ### En el ámbito académico: ¿Por qué hacer este proyecto?
 Este proyecto resulta importante en el ámbito académico puesto que nos permite simular una metodología real en una empresa. A su vez podemos familiarizarnos con de herramientas de uso cotidiano en un futuro puesto de trabajo como GitHub o Jira. Conocer cómo funcionan estas herramientas supone una ventaja puesto que nuestra introducción al mundo laboral será mucho más sencilla.
@@ -53,12 +55,14 @@ A continuación el desarrollo de cada tarea paso a paso:
 #### **Tarea 1: Elegir canción**
 
 Se muestra en esta imagen los detalles de la tarea en Jira.
+
 ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/detalles%20actividad%20jira.png)
 
 
 Al finalizar la tarea el gráfico del burndown sobre el estado del proyecto tiene el aspecto mostrado en la siguiente imagen.
 
-![Burndown comienzo tarea 2 - WhatsApp Image 2023-11-28 at 10 36 04](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/571a626b-4d48-42e2-937b-9ef2301bc2ac)
+![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/burndown.png)
+
 
 #### **Tarea 2: Contador-de-fallos**
 
@@ -77,7 +81,7 @@ A la finalización de la tarea el cronograma tiene el aspecto mostrado en la sig
 
 Este es el gráfico burndown que ilustra el estado del proyecto tras la finalización de la tarea.
 
-![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/burndown.png)
+![Burndown comienzo tarea 2 - WhatsApp Image 2023-11-28 at 10 36 04](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/571a626b-4d48-42e2-937b-9ef2301bc2ac)
 
 
 #### **Tarea 5: Acabar la partida**
