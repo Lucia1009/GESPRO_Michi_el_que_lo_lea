@@ -1,122 +1,94 @@
 # GESPRO_Michi_el_que_lo_lea
-_Autores:_
-
-_Rocío Esteban Valverde rev1002@alu.ubu.es,_
-_Lucía García Lado lgl1009@alu.ubu.es,_
-_Sergio Buil Laliena sbl1003@alu.ubu.es,_
-_Julio Miranda Santos jms1015@alu.ubu.es_
 
 ## Descripción del proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Este proyecto forma parte de una práctica universitaria que aborda la planificación, desarrollo y gestión de un proyecto de software empleando metodologías ágiles. La iniciativa consiste en la implementación de historias de usuario definidas previamente en conjunto, utilizando Jira para la gestión de tareas y GitHub para el control de versiones. En este proyecto se encuentra una descripción detallada de los pasos seguidos hasta el momento para llegar al estado actual del proyecto.
 
-## ¿Por qué el proyecto es importante?📈
 
-_Nuestro proyecto resulta importante porque es un proyecto de **actualidad.** El juego que estamos elaborando es un juego popular entre la gente joven debido a la **amplia difusión** en las redes sociales de juegos de este etilo._
 
-_El mayor factor de éxito de nuestro proyecto es el uso de **nuevas tecnologías** como la realidad virtual aplicadas a juegos cuyas **mecánicas tradicionalmente han sido exitosas** entre el público. Varios nombres de juegos con dinámicas similares que han triunfado son el Guitar Hero, el Dance Dance Revolution o el Piano Tiles._
+## Pasos realizados hasta el momento 📋
 
-_En nuestro proyecto buscamos continuar una **nueva versión de estos juegos** para seguir entreteniendo a futuras generaciones de niños y adultos. Apostamos por la **renovación** para que no se pierdan los juegos con los que muchos han crecido y han aprendido a querer._
+### Selección del proyecto
+En Miró se realizó un tablero para sugerir y votar qué proyecto realizar.
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/d9f8ede8-7362-4c66-b15b-10669510b94c)
+
+Tras la votación el proyecto ganador fue el videojuego.
+
+
+### Definición de funcionalidades
+El juego consiste en un jugador en primera persona que tiene que destruir bloques que le llegan al ritmo de diferentes canciones entre las que puede elegir.
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/bf96b469-58b1-4f2c-8ff5-e608c3041e79)
+
+Entre todos ideamos algunas funcionalidades que queríamos que tuviera nuestro juego y las seleccionadas finalmente las agrupamos por área para proceder con el siguiente apartado.
+
+
+### Historias de usuario
+Se definieron algunas historias de usuario que servirán para el resto del proceso de desarrollo.
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/35a7da6b-446b-45a8-bff2-ca53392f3916)
+
+El equipo es el que decidió los puntos de historia mediante votación.
 
 ## ¿Dónde pueden recibir ayuda los usuarios con el proyecto? ❓
 
-_El juego cuenta con un pequeño y claro tutorial al iniciar el juego por primera vez, el cual proporciona información sobre los controles y la mecánica del juego. De todos modos, los usuarios pueden consultar guias y tutoriales en línea ya que como con todos los juegos se crea una comunidad de jugadores que comparten consejos, estrategias y trucos varios que pueden ayudar a los demás usuarios a mejorar. Además, para adaptar al usuario existe la configuración de controles en la que el usuario personaliza los controles según las preferencias y comodidades del jugador. Se podrían encontrar videos en plataformas como YouTube o Twitch donde todo tipo de jugadores comparten sus experiencias. La mayoría de la ayuda que van a recibir los usuarios es en las redes sociales de mano de otros usuarios._
+_El juego cuenta con un pequeño y claro tutorial al iniciar el juego por primera vez, el cual proporciona información sobre los controles y la mecánica del juego. De todos modos, los usuarios pueden consultar guias y tutoriales en línea ya que como con todos los juegos se crea una comunidad de jugadores que comparten consejos, estrategias y trucos varios que pueden ayudar a los demás usuarios a mejorar. Además, para adaptar al usuario existe la configuración de controles en la que el usuario personaliza los controles según las preferencias y comodidades del jugador. Se podrían encontrar videos en plataformas como YouTube o Twitch donde todo tipo de jugadores comparten sus experiencias. La mayoría de la ayuda que van a recibir los usuarios es en las redes sociales de mano de otros usuarios.
 
-## Comenzando 🚀
+### Jira
+En Jira se añadieron los issues que formarían el primer sprint y tras completar los datos relevantes se repartieron tareas a cada persona del equipo. Para hacer el seguimiento se conectó el proyecto de Jira con el actual proyecto en Github.
+A continuación el desarrollo de cada tarea paso a paso:
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+#### **Tarea 2: Contador-de-fallos**
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+A continuación se muestran los detalles de la tarea en Jira.
+Esta tarea pertenece al epic Puntuaciones.
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/85b74a3e-e0ed-42de-aeae-532dd59ceb91)
 
 
-### Pre-requisitos 📋
+**Finalización de la tarea 2**
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+A la finalización de la tarea el cronograma tiene el aspecto mostrado en la siguiente imagen.
 
-```
-Da un ejemplo
-```
+![Captura de pantalla 2023-11-28 104335](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/f96f4b95-2912-48fe-9752-56549e161e5a)
 
-### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+Este es el gráfico burndown que ilustra el estado del proyecto tras la finalización de la tarea.
 
-_Dí cómo será ese paso_
+![Burndown comienzo tarea 2 - WhatsApp Image 2023-11-28 at 10 36 04](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/571a626b-4d48-42e2-937b-9ef2301bc2ac)
 
-```
-Da un ejemplo
-```
 
-_Y repite_
+#### **Tarea 5: Acabar la partida**
 
-```
-hasta finalizar
-```
+A continuación se muestran los detalles de la tarea en Jira.
+Esta tarea pertenece al epic Música y partidas.
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/057bd5bc-a132-47b8-b990-8f05830a6621)
 
-## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+**Finalización de la tarea 5**
 
-### Analice las pruebas end-to-end 🔩
+A la finalización de la tarea el tablero kanban del proyecto tiene el aspecto mostrado en la siguiente imagen.
 
-_Explica que verifican estas pruebas y por qué_
+![Captura de pantalla 2023-11-29 200043](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/349676c0-2b06-4dd8-8297-54f6a9757110)
 
-```
-Da un ejemplo
-```
 
-### Y las pruebas de estilo de codificación ⌨️
+Este es el gráfico burndown que ilustra el estado del proyecto tras la finalización de la tarea.
 
-_Explica que verifican estas pruebas y por qué_
+![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/7f5eb4c9-7a4f-4950-ab55-d0677e42bfa3)
 
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+Rocío Esteban Valverde - rev1002@alu.ubu.es
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+Lucía García Lado - lgl1009@alu.ubu.es
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+Sergio Buil Laliena - sbl1003@alu.ubu.es
 
-## Licencia 📄
+Julio Miranda Santos - jms1015@alu.ubu.es
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+También puedes mirar la lista de todos los [contribuyentes]((https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/graphs/contributors)https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/graphs/contributors) quíenes han participado en este proyecto.  
 
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
 
