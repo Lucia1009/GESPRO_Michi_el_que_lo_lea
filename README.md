@@ -1,14 +1,22 @@
 # GESPRO_Michi_el_que_lo_lea
-_Autores:
+_Autores:_
 
-_Rocío Esteban Valverde rev1002@alu.ubu.es,
-_Lucía García Lado lgl1009@alu.ubu.es,
-_Sergio Buil Laliena sbl1003@alu.ubu.es,
-_Julio Miranda Santos jms1015@alu.ubu.es
+_Rocío Esteban Valverde rev1002@alu.ubu.es,_
+_Lucía García Lado lgl1009@alu.ubu.es,_
+_Sergio Buil Laliena sbl1003@alu.ubu.es,_
+_Julio Miranda Santos jms1015@alu.ubu.es_
 
 ## Descripción del proyecto
 
 _Acá va un párrafo que describa lo que es el proyecto_
+
+## ¿Por qué el proyecto es importante?📈
+
+_Nuestro proyecto resulta importante porque es un proyecto de **actualidad.** El juego que estamos elaborando es un juego popular entre la gente joven debido a la **amplia difusión** en las redes sociales de juegos de este etilo._
+
+_El mayor factor de éxito de nuestro proyecto es el uso de **nuevas tecnologías** como la realidad virtual aplicadas a juegos cuyas **mecánicas tradicionalmente han sido exitosas** entre el público. Varios nombres de juegos con dinámicas similares que han triunfado son el Guitar Hero, el Dance Dance Revolution o el Piano Tiles._
+
+_En nuestro proyecto buscamos continuar una **nueva versión de estos juegos** para seguir entreteniendo a futuras generaciones de niños y adultos. Apostamos por la **renovación** para que no se pierdan los juegos con los que muchos han crecido y han aprendido a querer._
 
 ## Comenzando 🚀
 
@@ -109,7 +117,3 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * etc.
 
 
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
-=======
