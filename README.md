@@ -1,8 +1,25 @@
 # GESPRO_Michi_el_que_lo_lea
 
 ## Descripción del proyecto
-
 Este proyecto forma parte de una práctica universitaria que aborda la planificación, desarrollo y gestión de un proyecto de software empleando metodologías ágiles. La iniciativa consiste en la implementación de historias de usuario definidas previamente en conjunto, utilizando Jira para la gestión de tareas y GitHub para el control de versiones. En este proyecto se encuentra una descripción detallada de los pasos seguidos hasta el momento para llegar al estado actual del proyecto.
+
+## ¿Por qué el proyecto es importante?📈
+### En el ámbito académico: ¿Por qué hacer este proyecto?
+Este proyecto resulta importante en el ámbito académico puesto que nos permite simular una metodología real en una empresa. A su vez podemos familiarizarnos con de herramientas de uso cotidiano en un futuro puesto de trabajo como GitHub o Jira. Conocer cómo funcionan estas herramientas supone una ventaja puesto que nuestra introducción al mundo laboral será mucho más sencilla.
+
+
+### En el ámbito real: Si se realizara el proyecto, ¿Qué responderíamos a la pregunta?
+Nuestro proyecto resulta importante porque es un proyecto de **actualidad.** El juego que estamos elaborando es un juego popular entre la gente joven debido a la **amplia difusión** en las redes sociales de juegos de este etilo.
+
+El mayor factor de éxito de nuestro proyecto es el uso de **nuevas tecnologías** como la realidad virtual aplicadas a juegos cuyas **mecánicas tradicionalmente han sido exitosas** entre el público. Varios nombres de juegos con dinámicas similares que han triunfado son el _Guitar Hero, el Dance Dance Revolution o el Piano Tiles._
+
+En nuestro proyecto buscamos continuar una **nueva versión de estos juegos** para seguir entreteniendo a futuras generaciones de niños y adultos. Apostamos por la **renovación** para que no se pierdan los juegos con los que muchos han crecido y han aprendido a querer.
+
+
+
+
+## ¿Dónde pueden recibir ayuda los usuarios con el proyecto? ❓
+_El juego cuenta con un pequeño y claro tutorial al iniciar el juego por primera vez, el cual proporciona información sobre los controles y la mecánica del juego. De todos modos, los usuarios pueden consultar guias y tutoriales en línea ya que como con todos los juegos se crea una comunidad de jugadores que comparten consejos, estrategias y trucos varios que pueden ayudar a los demás usuarios a mejorar. Además, para adaptar al usuario existe la configuración de controles en la que el usuario personaliza los controles según las preferencias y comodidades del jugador. Se podrían encontrar videos en plataformas como YouTube o Twitch donde todo tipo de jugadores comparten sus experiencias. La mayoría de la ayuda que van a recibir los usuarios es en las redes sociales de mano de otros usuarios._
 
 ## Pasos realizados hasta el momento 📋
 
@@ -88,6 +105,20 @@ Este es el gráfico burndown que ilustra el estado del proyecto tras la finaliza
 
 ![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/7f5eb4c9-7a4f-4950-ab55-d0677e42bfa3)
 
+#### Fin del sprint
+Este es el gráfico que obtenemos al finalizar el sprint:
+![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/burndown%20final%20primer%20sprint.jpg?raw=true)
+Como podemos observar, el gráfico indica que el sprint está subestimado. Se puede ver porque la línea naranja que marca el progreso del sprint está por encima de la pendiente. Esto es debido en gran parte a la brevedad del sprint y a que hemos elegido muchas tareas que debían terminar el último día (3 puntos de historias de usuario). Por esta razón también, es por lo que hay una caída significativa al final del gráfico.
+
+En el gráfico además se puede observar que faltan 5 story points por completarse. Esto decidimos hacerlo a propósito para simular la situación en la que una tarea no ha podido completarse y pasa al siguiente sprint.
+
+Podemos ver que al haber finalizado el sprint, la tarea inacabada se coloca automáticamente en el sprint 2:
+
+![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/sprint2.jpg?raw=true)
+
+También quisimos simular que una tarea finalizara antes de tiempo, por lo que la tarea 7: acumular puntuación de jugador, pese a tener asignados 3 story points, duró 2 días.
+
+En conclusión, el reparto de tareas para el sprint no fue el más adecuado porque no re realiza una entrega continua, sino que hay saltos.
 
 ## Autores ✒️
 
