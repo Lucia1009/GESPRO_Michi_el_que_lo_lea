@@ -133,3 +133,4 @@ Sergio Buil Laliena - sbl1003@alu.ubu.es
 Julio Miranda Santos - jms1015@alu.ubu.es
 
 También puedes mirar la lista de todos los [contribuyentes]((https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/graphs/contributors)https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/graphs/contributors) quíenes han participado en este proyecto.  
+
