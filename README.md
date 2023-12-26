@@ -56,8 +56,9 @@ A continuación el desarrollo de cada tarea paso a paso:
 
 Se muestra en esta imagen los detalles de la tarea en Jira.
 
-![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/detalles%20actividad%20jira.png)
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/579e86ef-90f2-4a2e-81aa-0303a09f9713)
 
+<!-- ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/detalles%20actividad%20jira.png) -->
 
 Al finalizar la tarea el gráfico del burndown sobre el estado del proyecto tiene el aspecto mostrado en la siguiente imagen.
 
@@ -105,7 +106,7 @@ Este es el gráfico burndown que ilustra el estado del proyecto tras la finaliza
 
 ![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/7f5eb4c9-7a4f-4950-ab55-d0677e42bfa3)
 
-#### Fin del sprint
+#### Fin del sprint 1
 Este es el gráfico que obtenemos al finalizar el sprint:
 
 ![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/burndown%20final%20primer%20sprint.jpg?raw=true)
