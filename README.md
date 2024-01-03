@@ -32,6 +32,15 @@ En Miró se realizó un tablero para sugerir y votar qué proyecto realizar.
 
 Tras la votación el proyecto ganador fue el videojuego.
 
+## Lo que hemos aprendido con este proyecto 🧠
+Hemos aprendido a eleccionar el proyecto mediante la realización de una votación para elegir el proyecto, optando por un videojuego en primera persona.
+También la definiciíon de funcionalidades, cómo se identificaron y agruparon las funcionalidades deseadas para el juego, centrándose en un jugador que 
+destruye bloques al ritmo de diferentes canciones. A hacer historias de Usuario para guiar el desarrollo, involucrando al equipo en la decisión de los puntos de historia mediante votación. A manejar Jira para la gestión de tareas, creando issues para formar sprints, asignar tareas y hacer un seguimiento del progreso.
+A implementar Sprints dividiendo las tareas planificadas y monitoreando el progreso, identificando áreas de mejora en la planificación y entregas continuas.
+A simular situaciones realistas dejando tareas sin completar al final de un sprint para simular situaciones realistas donde una tarea se traslada al siguiente sprint además de tareas que finalizaron antes de tiempo.A analizar el Rendimiento del Sprint evaluando el rendimiento del sprint, identificando la subestimación del sprint y destacando áreas para ajustar en futuras planificaciones.
+
+![DiagramaGESPRO](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/149389962/8a5cd5e5-4e31-4eb8-be1a-5b9eb29f1f71)
+
 
 ### Definición de funcionalidades
 El juego consiste en un jugador en primera persona que tiene que destruir bloques que le llegan al ritmo de diferentes canciones entre las que puede elegir.
