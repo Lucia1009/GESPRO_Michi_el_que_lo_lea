@@ -106,11 +106,7 @@ Este es el gráfico burndown que ilustra el estado del proyecto tras la finaliza
 ![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/7f5eb4c9-7a4f-4950-ab55-d0677e42bfa3)
 
 #### Fin del sprint
-Este es el gráfico que obtenemos al finalizar el sprint:
-
-![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/burndown%20final%20primer%20sprint.jpg?raw=true)
-
-Como podemos observar, el gráfico indica que el sprint está subestimado. Se puede ver porque la línea naranja que marca el progreso del sprint está por encima de la pendiente. Esto es debido en gran parte a la brevedad del sprint y a que hemos elegido muchas tareas que debían terminar el último día (3 puntos de historias de usuario). Por esta razón también, es por lo que hay una caída significativa al final del gráfico.
+Como podemos observar en las imágenes anteriores, el gráfico  de final del sprint indica que el sprint está subestimado. Se puede ver porque la línea naranja que marca el progreso del sprint está por encima de la pendiente. Esto es debido en gran parte a la brevedad del sprint y a que hemos elegido muchas tareas que debían terminar el último día (3 puntos de historias de usuario). Por esta razón también, es por lo que hay una caída significativa al final del gráfico.
 
 En el gráfico además se puede observar que faltan 5 story points por completarse. Esto decidimos hacerlo a propósito para simular la situación en la que una tarea no ha podido completarse y pasa al siguiente sprint.
 
