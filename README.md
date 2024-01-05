@@ -123,7 +123,7 @@ En conclusión, el reparto de tareas para el sprint no fue el más adecuado porq
 ### Sprint 4
 ### Burn Down
 ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/11ec8fe5-514a-46bc-b228-5978aaac07c1)
-
+Este gráfico indica que las dos primeras tareas finalizaron por encima de la línea directriz y que las otras dos terminaron con un buen ritmo de trabajo el día de antes de que el sprint finalizase. Además, también se puede ver que el sprint terminó el día 29, sin embargo se cerró el día 2 porque no nos dimos cuenta y lo cerramos más tarde.
 
 ## Lo que hemos aprendido con este proyecto 🧠
 * Hemos aprendido a eleccionar el proyecto mediante la realización de una votación para elegir el proyecto, optando por un videojuego en primera persona.
