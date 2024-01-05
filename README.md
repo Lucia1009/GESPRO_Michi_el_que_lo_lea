@@ -56,6 +56,7 @@ Se muestra en esta imagen los detalles de la tarea en Jira.
 
 ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/00b30725-7b2e-4141-beca-8997c99ad1f9)
 
+<!-- ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/detalles%20actividad%20jira.png) -->
 
 Al finalizar la tarea el gráfico del burndown sobre el estado del proyecto tiene el aspecto mostrado en la siguiente imagen.
 
@@ -103,7 +104,7 @@ Este es el gráfico burndown que ilustra el estado del proyecto tras la finaliza
 
 ![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/7f5eb4c9-7a4f-4950-ab55-d0677e42bfa3)
 
-#### Fin del sprint
+#### Fin del sprint 1
 Este es el gráfico que obtenemos al finalizar el sprint:
 
 ![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/burndown%20final%20primer%20sprint.jpg?raw=true)
@@ -119,6 +120,23 @@ Podemos ver que al haber finalizado el sprint, la tarea inacabada se coloca auto
 También quisimos simular que una tarea finalizara antes de tiempo, por lo que la tarea 7: acumular puntuación de jugador, pese a tener asignados 3 story points, duró 2 días.
 
 En conclusión, el reparto de tareas para el sprint no fue el más adecuado porque no re realiza una entrega continua, sino que hay saltos.
+
+
+### Sprint 2
+#### Burn Bown
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0a7ba569-6ef7-45ce-a2f3-067c8895a717)
+
+Podemos ver que en este gráfico ha ido disminuyendo el trabajo restante haciendo grandes saltos. Entre el 13 y 14 de diciembre estuvimos por debajo de la línea directriz haciendo que fuese más que ideal el trabajo realizado, sin embargo hasta el día 15 no volvió a disminuir el trabajo restante por tanto volvimos a estar un poco por encima de la línea directriz aunque terminamos otras dos tareas y volvimos a estar por debajo. Con esto terminamos a tiempo el trabajo del sprint.
+
+
+### Sprint 3
+#### Burn down
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0d2ceb06-78c4-434a-977a-2f5a9ecb17ff)
+
+En este gráfico podemos ver que las primeras dos tareas finalizaron por encima de la línea directriz, y que las otras dos también incluso terminaron tarde. El gráfico de este sprint representa que las tareas duraron demasiado tiempo, deberían haber sido divididas en otras tareas más cortas.
+
 
 ### Sprint 4
 ### Burn Down
