@@ -108,15 +108,11 @@ Este es el gráfico burndown que ilustra el estado del proyecto tras la finaliza
 #### Fin del sprint 1
 Este es el gráfico que obtenemos al finalizar el sprint:
 
-![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/burndown%20final%20primer%20sprint.jpg?raw=true)
+![burndown final primer sprint](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/main/Burndown-Sprint1.png)
 
 Como podemos observar, el gráfico indica que el sprint está subestimado. Se puede ver porque la línea naranja que marca el progreso del sprint está por encima de la pendiente. Esto es debido en gran parte a la brevedad del sprint y a que hemos elegido muchas tareas que debían terminar el último día (3 puntos de historias de usuario). Por esta razón también, es por lo que hay una caída significativa al final del gráfico.
 
 En el gráfico además se puede observar que faltan 5 story points por completarse. Esto decidimos hacerlo a propósito para simular la situación en la que una tarea no ha podido completarse y pasa al siguiente sprint.
-
-Podemos ver que al haber finalizado el sprint, la tarea inacabada se coloca automáticamente en el sprint 2:
-
-![burndown final primer sprint]([https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/sprint2.jpg?raw=true](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/main/burndown%20final%20primer%20sprint.jpg))
 
 También quisimos simular que una tarea finalizara antes de tiempo, por lo que la tarea 7: acumular puntuación de jugador, pese a tener asignados 3 story points, duró 2 días.
 
