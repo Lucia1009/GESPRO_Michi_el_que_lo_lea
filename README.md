@@ -122,6 +122,14 @@ También quisimos simular que una tarea finalizara antes de tiempo, por lo que l
 
 En conclusión, el reparto de tareas para el sprint no fue el más adecuado porque no re realiza una entrega continua, sino que hay saltos.
 
+
+### Sprint 3
+#### Burn down
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0d2ceb06-78c4-434a-977a-2f5a9ecb17ff)
+
+En este gráfico podemos ver que las primeras dos tareas finalizaron por encima de la línea directriz, y que las otras dos también incluso terminaron tarde. El gráfico de este sprint representa que las tareas duraron demasiado tiempo, deberían haber sido divididas en otras tareas más cortas.
+
 ## Autores ✒️
 
 Rocío Esteban Valverde - rev1002@alu.ubu.es
