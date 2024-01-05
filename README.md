@@ -32,6 +32,15 @@ En Miró se realizó un tablero para sugerir y votar qué proyecto realizar.
 
 Tras la votación el proyecto ganador fue el videojuego.
 
+## Lo que hemos aprendido con este proyecto 🧠
+Hemos aprendido a eleccionar el proyecto mediante la realización de una votación para elegir el proyecto, optando por un videojuego en primera persona.
+También la definiciíon de funcionalidades, cómo se identificaron y agruparon las funcionalidades deseadas para el juego, centrándose en un jugador que 
+destruye bloques al ritmo de diferentes canciones. A hacer historias de Usuario para guiar el desarrollo, involucrando al equipo en la decisión de los puntos de historia mediante votación. A manejar Jira para la gestión de tareas, creando issues para formar sprints, asignar tareas y hacer un seguimiento del progreso.
+A implementar Sprints dividiendo las tareas planificadas y monitoreando el progreso, identificando áreas de mejora en la planificación y entregas continuas.
+A simular situaciones realistas dejando tareas sin completar al final de un sprint para simular situaciones realistas donde una tarea se traslada al siguiente sprint además de tareas que finalizaron antes de tiempo.A analizar el Rendimiento del Sprint evaluando el rendimiento del sprint, identificando la subestimación del sprint y destacando áreas para ajustar en futuras planificaciones.
+
+![DiagramaGESPRO](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/149389962/8a5cd5e5-4e31-4eb8-be1a-5b9eb29f1f71)
+
 
 ### Definición de funcionalidades
 El juego consiste en un jugador en primera persona que tiene que destruir bloques que le llegan al ritmo de diferentes canciones entre las que puede elegir.
@@ -56,8 +65,9 @@ A continuación el desarrollo de cada tarea paso a paso:
 
 Se muestra en esta imagen los detalles de la tarea en Jira.
 
-![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/detalles%20actividad%20jira.png)
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/579e86ef-90f2-4a2e-81aa-0303a09f9713)
 
+<!-- ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/detalles%20actividad%20jira.png) -->
 
 Al finalizar la tarea el gráfico del burndown sobre el estado del proyecto tiene el aspecto mostrado en la siguiente imagen.
 
@@ -105,7 +115,7 @@ Este es el gráfico burndown que ilustra el estado del proyecto tras la finaliza
 
 ![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/7f5eb4c9-7a4f-4950-ab55-d0677e42bfa3)
 
-#### Fin del sprint
+#### Fin del sprint 1
 Este es el gráfico que obtenemos al finalizar el sprint:
 
 ![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/burndown%20final%20primer%20sprint.jpg?raw=true)
@@ -123,12 +133,22 @@ También quisimos simular que una tarea finalizara antes de tiempo, por lo que l
 En conclusión, el reparto de tareas para el sprint no fue el más adecuado porque no re realiza una entrega continua, sino que hay saltos.
 
 
+### Sprint 2
+#### Burn Bown
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0a7ba569-6ef7-45ce-a2f3-067c8895a717)
+
+Podemos ver que en este gráfico ha ido disminuyendo el trabajo restante haciendo grandes saltos. Entre el 13 y 14 de diciembre estuvimos por debajo de la línea directriz haciendo que fuese más que ideal el trabajo realizado, sin embargo hasta el día 15 no volvió a disminuir el trabajo restante por tanto volvimos a estar un poco por encima de la línea directriz aunque terminamos otras dos tareas y volvimos a estar por debajo. Con esto terminamos a tiempo el trabajo del sprint.
+
+
 ### Sprint 3
 #### Burn down
 
 ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0d2ceb06-78c4-434a-977a-2f5a9ecb17ff)
 
 En este gráfico podemos ver que las primeras dos tareas finalizaron por encima de la línea directriz, y que las otras dos también incluso terminaron tarde. El gráfico de este sprint representa que las tareas duraron demasiado tiempo, deberían haber sido divididas en otras tareas más cortas.
+
+
 
 ## Autores ✒️
 
