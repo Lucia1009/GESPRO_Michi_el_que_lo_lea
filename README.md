@@ -126,7 +126,7 @@ En conclusión, el reparto de tareas para el sprint no fue el más adecuado porq
 ### Sprint 2
 #### Burn Down
 
-![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0a7ba569-6ef7-45ce-a2f3-067c8895a717)
+![Burndown-Sprint2](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/1ffb4d45-ddb9-4d73-addc-2a3b755f0046)
 
 Podemos ver que en este gráfico ha ido disminuyendo el trabajo restante haciendo grandes saltos. Entre el 13 y 14 de diciembre estuvimos por debajo de la línea directriz haciendo que fuese más que ideal el trabajo realizado, sin embargo hasta el día 15 no volvió a disminuir el trabajo restante por tanto volvimos a estar un poco por encima de la línea directriz aunque terminamos otras dos tareas y volvimos a estar por debajo. Con esto terminamos a tiempo el trabajo del sprint.
 
@@ -134,14 +134,16 @@ Podemos ver que en este gráfico ha ido disminuyendo el trabajo restante haciend
 ### Sprint 3
 #### Burn down
 
-![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0d2ceb06-78c4-434a-977a-2f5a9ecb17ff)
+![Burndown-Sprint3](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/78613dc1-a6c1-43fa-8f59-74ed1c611d82)
 
 En este gráfico podemos ver que las primeras dos tareas finalizaron por encima de la línea directriz, y que las otras dos también incluso terminaron tarde. El gráfico de este sprint representa que las tareas duraron demasiado tiempo, deberían haber sido divididas en otras tareas más cortas.
 
 
 ### Sprint 4
 #### Burn Down
-![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/11ec8fe5-514a-46bc-b228-5978aaac07c1)
+
+![Burndown-Sprint4](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0bfa2280-c54e-4b17-bf99-1105bead9c2a)
+
 Este gráfico indica que las dos primeras tareas finalizaron por encima de la línea directriz y que las otras dos terminaron con un buen ritmo de trabajo el día de antes de que el sprint finalizase. Además, también se puede ver que el sprint terminó el día 29, sin embargo se cerró el día 2 porque no nos dimos cuenta y lo cerramos más tarde.
 
 
