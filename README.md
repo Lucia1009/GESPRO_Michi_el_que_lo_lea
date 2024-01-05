@@ -122,6 +122,25 @@ También quisimos simular que una tarea finalizara antes de tiempo, por lo que l
 
 En conclusión, el reparto de tareas para el sprint no fue el más adecuado porque no re realiza una entrega continua, sino que hay saltos.
 
+
+## Gráfico de burnup 
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/149389710/efba0171-cd0a-4d1a-b855-852d1c498baa)
+
+
+En este gráfico podemos ver el flujo de trabajo del proyecto. De él podemos obtener una medida de cómo ha ido evolucionando el proyecto.
+
+Se puede observar que el proyecto ha avanzado de manera correcta en su mayor parte. El volumen de trabajo realizado ha ido en aumento a medida que se acercaba el final del proyecto, como era de esperar, ya que deberíamos tener más experiencia.
+
+También se puede notar el parón de 1 semana que tuvimos, ya que al principio del gráfico hay una zona plana.
+
+En la mayor parte del gráfico, el trabajo por hacer y trabajo en curso están por encima del trabajo realizado, como debería ser. Hay ciertos momentos en los que el trabajo realizado alcanza al trabajo en curso, esto es el periodo entre que se finalizaban los sprints y se iniciaban los siguientes.
+
+Hay también un momento en el que el trabajo por hacer alcanza al trabajo en curso. Esto es debido a que en ese momento no teníamos preparados el resto de sprints para ejecutarse a continuación, lo que significaba que para Jira no había más trabajo que hacer en el proyecto.
+
+En general el flujo del proyecto ha avanzado de forma adecuada.
+
+
 ## Autores ✒️
 
 Rocío Esteban Valverde - rev1002@alu.ubu.es
