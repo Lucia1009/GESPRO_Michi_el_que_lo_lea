@@ -18,8 +18,6 @@ El mayor factor de éxito de nuestro proyecto es el uso de **nuevas tecnologías
 En nuestro proyecto buscamos continuar una **nueva versión de estos juegos** para seguir entreteniendo a futuras generaciones de niños y adultos. Apostamos por la **renovación** para que no se pierdan los juegos con los que muchos han crecido y han aprendido a querer.
 
 
-
-
 ## ¿Dónde pueden recibir ayuda los usuarios con el proyecto? ❓
 _El juego cuenta con un pequeño y claro tutorial al iniciar el juego por primera vez, el cual proporciona información sobre los controles y la mecánica del juego. De todos modos, los usuarios pueden consultar guías y tutoriales en línea ya que como con todos los juegos se crea una comunidad de jugadores que comparten consejos, estrategias y trucos varios que pueden ayudar a los demás usuarios a mejorar. Además, para adaptar al usuario existe la configuración de controles en la que el usuario los personaliza según las preferencias y comodidades del jugador. Se podrían encontrar vídeos en plataformas como YouTube o Twitch donde todo tipo de jugadores comparten sus experiencias. La mayoría de la ayuda que van a recibir los usuarios es en las redes sociales de mano de otros usuarios._
 
@@ -31,15 +29,6 @@ En Miró se realizó un tablero para sugerir y votar qué proyecto realizar.
 ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/d9f8ede8-7362-4c66-b15b-10669510b94c)
 
 Tras la votación el proyecto ganador fue el videojuego.
-
-## Lo que hemos aprendido con este proyecto 🧠
-Hemos aprendido a eleccionar el proyecto mediante la realización de una votación para elegir el proyecto, optando por un videojuego en primera persona.
-También la definiciíon de funcionalidades, cómo se identificaron y agruparon las funcionalidades deseadas para el juego, centrándose en un jugador que 
-destruye bloques al ritmo de diferentes canciones. A hacer historias de Usuario para guiar el desarrollo, involucrando al equipo en la decisión de los puntos de historia mediante votación. A manejar Jira para la gestión de tareas, creando issues para formar sprints, asignar tareas y hacer un seguimiento del progreso.
-A implementar Sprints dividiendo las tareas planificadas y monitoreando el progreso, identificando áreas de mejora en la planificación y entregas continuas.
-A simular situaciones realistas dejando tareas sin completar al final de un sprint para simular situaciones realistas donde una tarea se traslada al siguiente sprint además de tareas que finalizaron antes de tiempo.A analizar el Rendimiento del Sprint evaluando el rendimiento del sprint, identificando la subestimación del sprint y destacando áreas para ajustar en futuras planificaciones.
-
-![DiagramaGESPRO](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/149389962/8a5cd5e5-4e31-4eb8-be1a-5b9eb29f1f71)
 
 
 ### Definición de funcionalidades
@@ -58,6 +47,7 @@ Se definieron algunas historias de usuario que servirán para el resto del proce
 El equipo es el que decidió los puntos de historia mediante votación.
 
 ### Jira
+### Sprint 1
 En Jira se añadieron los issues que formarían el primer sprint y tras completar los datos relevantes se repartieron tareas a cada persona del equipo. Para hacer el seguimiento se conectó el proyecto de Jira con el actual proyecto en Github.
 A continuación el desarrollo de cada tarea paso a paso:
 
@@ -65,8 +55,9 @@ A continuación el desarrollo de cada tarea paso a paso:
 
 Se muestra en esta imagen los detalles de la tarea en Jira.
 
-![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/detalles%20actividad%20jira.png)
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/00b30725-7b2e-4141-beca-8997c99ad1f9)
 
+<!-- ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/detalles%20actividad%20jira.png) -->
 
 Al finalizar la tarea el gráfico del burndown sobre el estado del proyecto tiene el aspecto mostrado en la siguiente imagen.
 
@@ -114,7 +105,7 @@ Este es el gráfico burndown que ilustra el estado del proyecto tras la finaliza
 
 ![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/7f5eb4c9-7a4f-4950-ab55-d0677e42bfa3)
 
-#### Fin del sprint
+#### Fin del sprint 1
 Este es el gráfico que obtenemos al finalizar el sprint:
 
 ![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/burndown%20final%20primer%20sprint.jpg?raw=true)
@@ -132,7 +123,29 @@ También quisimos simular que una tarea finalizara antes de tiempo, por lo que l
 En conclusión, el reparto de tareas para el sprint no fue el más adecuado porque no re realiza una entrega continua, sino que hay saltos.
 
 
-## Gráfico de burnup 
+### Sprint 2
+#### Burn Bown
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0a7ba569-6ef7-45ce-a2f3-067c8895a717)
+
+Podemos ver que en este gráfico ha ido disminuyendo el trabajo restante haciendo grandes saltos. Entre el 13 y 14 de diciembre estuvimos por debajo de la línea directriz haciendo que fuese más que ideal el trabajo realizado, sin embargo hasta el día 15 no volvió a disminuir el trabajo restante por tanto volvimos a estar un poco por encima de la línea directriz aunque terminamos otras dos tareas y volvimos a estar por debajo. Con esto terminamos a tiempo el trabajo del sprint.
+
+
+### Sprint 3
+#### Burn down
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0d2ceb06-78c4-434a-977a-2f5a9ecb17ff)
+
+En este gráfico podemos ver que las primeras dos tareas finalizaron por encima de la línea directriz, y que las otras dos también incluso terminaron tarde. El gráfico de este sprint representa que las tareas duraron demasiado tiempo, deberían haber sido divididas en otras tareas más cortas.
+
+
+### Sprint 4
+#### Burn Down
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/11ec8fe5-514a-46bc-b228-5978aaac07c1)
+Este gráfico indica que las dos primeras tareas finalizaron por encima de la línea directriz y que las otras dos terminaron con un buen ritmo de trabajo el día de antes de que el sprint finalizase. Además, también se puede ver que el sprint terminó el día 29, sin embargo se cerró el día 2 porque no nos dimos cuenta y lo cerramos más tarde.
+
+
+### Gráfico de burnup 
 
 ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/149389710/efba0171-cd0a-4d1a-b855-852d1c498baa)
 
@@ -148,6 +161,40 @@ En la mayor parte del gráfico, el trabajo por hacer y trabajo en curso están p
 Hay también un momento en el que el trabajo por hacer alcanza al trabajo en curso. Esto es debido a que en ese momento no teníamos preparados el resto de sprints para ejecutarse a continuación, lo que significaba que para Jira no había más trabajo que hacer en el proyecto.
 
 En general el flujo del proyecto ha avanzado de forma adecuada.
+
+
+## Lo que hemos aprendido con este proyecto 🧠
+* Hemos aprendido a eleccionar el proyecto mediante la realización de una votación para elegir el proyecto, optando por un videojuego en primera persona.
+* También la definiciíon de funcionalidades, cómo se identificaron y agruparon las funcionalidades deseadas para el juego, centrándose en un jugador que 
+destruye bloques al ritmo de diferentes canciones. 
+*  A hacer historias de Usuario para guiar el desarrollo, involucrando al equipo en la decisión de los puntos de historia mediante votación. A manejar Jira para la gestión de tareas, creando issues para formar sprints, asignar tareas y hacer un seguimiento del progreso.
+* A implementar Sprints dividiendo las tareas planificadas y monitoreando el progreso, identificando áreas de mejora en la planificación y entregas continuas.
+* A simular situaciones realistas dejando tareas sin completar al final de un sprint para simular situaciones realistas donde una tarea se traslada al siguiente sprint además de tareas que finalizaron antes de tiempo.
+* A analizar el Rendimiento del Sprint evaluando el rendimiento del sprint, identificando la subestimación del sprint y destacando áreas para ajustar en futuras planificaciones.
+
+![DiagramaGESPRO](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/149389962/8a5cd5e5-4e31-4eb8-be1a-5b9eb29f1f71)
+
+
+## Donde estamos y a donde vamos
+### Donde estamos (As is)
+Hasta ahora, en nuestro proyecto, hemos logrado importantes hitos que sientan las bases del juego.
+
+Actualmente, los usuarios pueden:
+
+* Registrarse y tener una cuenta personal en la que se guarda su progreso
+* Jugar una partida
+* Realizar misiones secundarias y recibir recompensas por completarlas.
+* Visitar la tienda para adquirir armas y personajes pagando por ellos el precio establecido.
+* Cambiar el idioma del juego.
+
+### A dónde vamos (To be)
+En nuestro horizonte está mejorar la experiencia de juego y ofrecer a nuestros jugadores aún más posibilidades. Las metas para el futuro próximo incluyen:
+* Expansión de Contenido: Introducción de nuevos niveles y desafíos que mantengan a los jugadores comprometidos y emocionados.
+* Modo Multijugador: Desarrollo de un modo multijugador para que los jugadores puedan competir entre sí, fomentando la camaradería y la competencia sana.
+* Eventos Especiales: Creación de eventos especiales y desafíos temporales que ofrezcan recompensas exclusivas, manteniendo la frescura y emoción en el juego.
+* Compatibilidad con Plataformas Adicionales: Expansión de la disponibilidad del juego a otras plataformas, brindando acceso a una audiencia más amplia y diversa.
+* Integración de Comunidad: Desarrollo de herramientas de comunidad que fomenten la interacción entre jugadores, como foros, rankings y contenido generado por usuarios.
+* Mejora Continua de la Experiencia de Usuario: Implementación de mejoras continuas basadas en comentarios de los usuarios para garantizar una experiencia de juego fluida y gratificante.
 
 
 ## Autores ✒️
