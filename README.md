@@ -123,6 +123,13 @@ También quisimos simular que una tarea finalizara antes de tiempo, por lo que l
 
 En conclusión, el reparto de tareas para el sprint no fue el más adecuado porque no re realiza una entrega continua, sino que hay saltos.
 
+### Sprint 2
+#### Burn Bown
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0a7ba569-6ef7-45ce-a2f3-067c8895a717)
+
+Podemos ver que en este gráfico ha ido disminuyendo el trabajo restante haciendo grandes saltos. Entre el 13 y 14 de diciembre estuvimos por debajo de la línea directriz haciendo que fuese más que ideal el trabajo realizado, sin embargo hasta el día 15 no volvió a disminuir el trabajo restante por tanto volvimos a estar un poco por encima de la línea directriz aunque terminamos otras dos tareas y volvimos a estar por debajo. Con esto terminamos a tiempo el trabajo del sprint.
+
 ## Autores ✒️
 
 Rocío Esteban Valverde - rev1002@alu.ubu.es
