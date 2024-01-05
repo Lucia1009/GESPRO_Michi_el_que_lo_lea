@@ -116,7 +116,7 @@ En el gráfico además se puede observar que faltan 5 story points por completar
 
 Podemos ver que al haber finalizado el sprint, la tarea inacabada se coloca automáticamente en el sprint 2:
 
-![](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/sprint2.jpg?raw=true)
+![burndown final primer sprint]([https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-7-Acumular-puntuacion-del-jugador/sprint2.jpg?raw=true](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/main/burndown%20final%20primer%20sprint.jpg))
 
 También quisimos simular que una tarea finalizara antes de tiempo, por lo que la tarea 7: acumular puntuación de jugador, pese a tener asignados 3 story points, duró 2 días.
 
