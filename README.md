@@ -61,7 +61,7 @@ Se muestra en esta imagen los detalles de la tarea en Jira.
 
 Al finalizar la tarea el gráfico del burndown sobre el estado del proyecto tiene el aspecto mostrado en la siguiente imagen.
 
-![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/SCRUM-5-Elegir-cancion/burndown.png)
+![Captura de pantalla 2023-11-29 193455](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/blob/main/Captura%20de%20pantalla%202023-11-29%20164023.png)
 
 
 #### **Tarea 2: Contador-de-fallos**
