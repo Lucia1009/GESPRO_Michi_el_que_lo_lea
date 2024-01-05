@@ -125,7 +125,8 @@ En conclusión, el reparto de tareas para el sprint no fue el más adecuado porq
 
 ## Gráfico de burnup 
 
-![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/149389710/efba0171-cd0a-4d1a-b855-852d1c498baa)
+![image](burnup.jpg)
+
 
 
 En este gráfico podemos ver el flujo de trabajo del proyecto. De él podemos obtener una medida de cómo ha ido evolucionando el proyecto.
