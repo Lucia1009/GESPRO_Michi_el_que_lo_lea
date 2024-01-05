@@ -124,7 +124,7 @@ En conclusión, el reparto de tareas para el sprint no fue el más adecuado porq
 
 
 ### Sprint 2
-#### Burn Bown
+#### Burn Down
 
 ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/0a7ba569-6ef7-45ce-a2f3-067c8895a717)
 
