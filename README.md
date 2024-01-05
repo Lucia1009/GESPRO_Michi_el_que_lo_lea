@@ -30,6 +30,7 @@ En Miró se realizó un tablero para sugerir y votar qué proyecto realizar.
 
 Tras la votación el proyecto ganador fue el videojuego.
 
+
 ### Definición de funcionalidades
 El juego consiste en un jugador en primera persona que tiene que destruir bloques que le llegan al ritmo de diferentes canciones entre las que puede elegir.
 
@@ -139,9 +140,28 @@ En este gráfico podemos ver que las primeras dos tareas finalizaron por encima 
 
 
 ### Sprint 4
-### Burn Down
+#### Burn Down
 ![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/108947463/11ec8fe5-514a-46bc-b228-5978aaac07c1)
 Este gráfico indica que las dos primeras tareas finalizaron por encima de la línea directriz y que las otras dos terminaron con un buen ritmo de trabajo el día de antes de que el sprint finalizase. Además, también se puede ver que el sprint terminó el día 29, sin embargo se cerró el día 2 porque no nos dimos cuenta y lo cerramos más tarde.
+
+
+### Gráfico de burnup 
+
+![image](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/149389710/efba0171-cd0a-4d1a-b855-852d1c498baa)
+
+
+En este gráfico podemos ver el flujo de trabajo del proyecto. De él podemos obtener una medida de cómo ha ido evolucionando el proyecto.
+
+Se puede observar que el proyecto ha avanzado de manera correcta en su mayor parte. El volumen de trabajo realizado ha ido en aumento a medida que se acercaba el final del proyecto, como era de esperar, ya que deberíamos tener más experiencia.
+
+También se puede notar el parón de 1 semana que tuvimos, ya que al principio del gráfico hay una zona plana.
+
+En la mayor parte del gráfico, el trabajo por hacer y trabajo en curso están por encima del trabajo realizado, como debería ser. Hay ciertos momentos en los que el trabajo realizado alcanza al trabajo en curso, esto es el periodo entre que se finalizaban los sprints y se iniciaban los siguientes.
+
+Hay también un momento en el que el trabajo por hacer alcanza al trabajo en curso. Esto es debido a que en ese momento no teníamos preparados el resto de sprints para ejecutarse a continuación, lo que significaba que para Jira no había más trabajo que hacer en el proyecto.
+
+En general el flujo del proyecto ha avanzado de forma adecuada.
+
 
 ## Lo que hemos aprendido con este proyecto 🧠
 * Hemos aprendido a eleccionar el proyecto mediante la realización de una votación para elegir el proyecto, optando por un videojuego en primera persona.
@@ -153,6 +173,7 @@ destruye bloques al ritmo de diferentes canciones.
 * A analizar el Rendimiento del Sprint evaluando el rendimiento del sprint, identificando la subestimación del sprint y destacando áreas para ajustar en futuras planificaciones.
 
 ![DiagramaGESPRO](https://github.com/Lucia1009/GESPRO_Michi_el_que_lo_lea/assets/149389962/8a5cd5e5-4e31-4eb8-be1a-5b9eb29f1f71)
+
 
 ## Donde estamos y a donde vamos
 ### Donde estamos (As is)
@@ -174,7 +195,6 @@ En nuestro horizonte está mejorar la experiencia de juego y ofrecer a nuestros 
 * Compatibilidad con Plataformas Adicionales: Expansión de la disponibilidad del juego a otras plataformas, brindando acceso a una audiencia más amplia y diversa.
 * Integración de Comunidad: Desarrollo de herramientas de comunidad que fomenten la interacción entre jugadores, como foros, rankings y contenido generado por usuarios.
 * Mejora Continua de la Experiencia de Usuario: Implementación de mejoras continuas basadas en comentarios de los usuarios para garantizar una experiencia de juego fluida y gratificante.
-
 
 
 ## Autores ✒️
